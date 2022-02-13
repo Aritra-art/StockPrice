@@ -19,6 +19,6 @@ A website which helps user how much profit or loss he/she is making in percentag
 
 The Web-app is deployed and is hosted.
 
-(https://pricecalculatestock.netlify.app/)[Stock Price Calculator]
+[Stock Price Calculator] (https://pricecalculatestock.netlify.app/)
 
 Enjoy ✨🎈🎉
